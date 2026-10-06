@@ -16,6 +16,24 @@ and mAP@50-95.
 | mAP@50 | 0.7252 |
 | mAP@50-95 | 0.5454 |
 
+## Training Results
+
+### Training Performance
+
+![Training Results](results/results.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+### Precision-Recall Curve
+
+![Precision-Recall Curve](results/BoxPR_curve.png)
+
+### F1 Score Curve
+
+![F1 Curve](results/BoxF1_curve.png)
+
 ## Training
 
 The model was trained using the following configuration:
